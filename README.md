@@ -107,6 +107,4 @@ Product A (4.5M)
 - Business is cash-positive but margin between inflow & outflow is narrow.
 
 - Any revenue slowdown or receivable delay can affect liquidity quickly.
-Business is cash-positive but margin between inflow & outflow is narrow.
 
-👉 Any revenue slowdown or receivable delay can affect liquidity quickly.
