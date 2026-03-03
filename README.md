@@ -1,5 +1,10 @@
 # Financial_Dashboard_Analysis
-#### 1. Overall Financial Performance (Top KPIs)
+#### 1. Dashboard Overview
+This Dashboard analyzes company financial performance including revenue, budget variance, profitability, receivables aging and cash flow.
+
+<img width="1311" height="732" alt="Screenshot 2026-03-03 151427" src="https://github.com/user-attachments/assets/7e238ed3-faa2-4e88-9110-dc0786d684a6" />
+
+#### 2.Overall Financial Performance (Top KPIs)
 
 - Total Budget: 31M
 
