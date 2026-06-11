@@ -2,6 +2,17 @@
 #### 1. Dashboard Overview
 This Dashboard analyzes company financial performance including revenue, budget variance, profitability, receivables aging and cash flow.
 
+#### Objective 
+
+You are working as a Data Analyst at The Finance Group. The client has requested a monthlylevel interactive dashboard in Power BI to monitor the company's financial health and key KPIs. Your task is to design and deliver a dashboard that allows filtering by date range and other key business metrics. 
+#### Data:
+Monthly P&L Data (Revenue, COGS, Gross Profit, Opex, EBITDA) 
+Cash Flow Data (Inflows, Outflows, Net Cash) 
+Sales Data (Product/Service, Region, Month) 
+Receivables & Payables Aging 
+Budget vs Actuals 
+
+
 <img width="1311" height="732" alt="Screenshot 2026-03-03 151427" src="https://github.com/user-attachments/assets/7e238ed3-faa2-4e88-9110-dc0786d684a6" />
 
 #### 2.Overall Financial Performance (Top KPIs)
