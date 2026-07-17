@@ -1,4 +1,4 @@
-# Financial_Dashboard_Analysis
+# Case Study - Financial Dashboard Creation
 #### 1. Dashboard Overview
 This Dashboard analyzes company financial performance including revenue, budget variance, profitability, receivables aging and cash flow.
 
